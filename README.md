@@ -34,11 +34,11 @@ python3 run.py
 ```
 
 The following interface should appear:
-![startPageImage](/images/startPage_GermanOK.png)
+![startPageImage](GermanOK/images/startPage_GermanOK.png)
 
 ## Pages availables
 
-![playPageImage](/images/playPage_GermanOK.png)  ![optionPageImage](/images/optionPage_GermanOK.png)  ![addPageImage](/images/addPage_GermanOK.png)  ![removePageImage](/images/removePage_GermanOK.png)
+![playPageImage](GermanOK/images/playPage_GermanOK.png)  ![optionPageImage](GermanOK/images/optionPage_GermanOK.png)  ![addPageImage](GermanOK/images/addPage_GermanOK.png)  ![removePageImage](GermanOK/images/removePage_GermanOK.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
