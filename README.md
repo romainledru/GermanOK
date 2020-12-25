@@ -2,6 +2,7 @@
 
 GermanOK is a Python script that helps people to learn a foreign language.
 The interface is purely in English and simple to use.
+Python library Tkinter is used for GUI.
 
 GermanOK is built like a little game that asks you to translate words. It store your score for each word to see your progression.
 GermanOK allows you to add and remove words within the interface.
